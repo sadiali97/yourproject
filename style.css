@@ -1,0 +1,12 @@
+body{
+    background-color: lightgray;
+}
+    
+    h1{
+    font-size: 56px;
+    font-weight: bolder;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    color: red;
+    background-color: #000;
+}
